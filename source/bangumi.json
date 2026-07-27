@@ -1,0 +1,1060 @@
+{
+    "uid":  "438242508",
+    "source":  "bilibili-public-space",
+    "updatedAt":  "2026-06-27T20:35:01.4339034Z",
+    "note":  "追番和影视来自 B 站空间公开接口；追漫接口需要登录态，公开站点不保存账号 Cookie，请手动维护 mangaItems 或跳转 B 站查看。",
+    "items":  [
+                  {
+                      "title":  "凡人修仙传",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "更新至第180话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss28747",
+                      "desc":  "看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑。..."
+                  },
+                  {
+                      "title":  "王者？别闹！",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "更新至第87话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/0f74eddb7755ad86d8f6237e37510830b409a748.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss26015",
+                      "desc":  "《王者?别闹!》系列动画番剧是根据腾讯游戏《王者荣耀》的真实游戏情景改编，讲述玩家们熟悉的众多英雄在王者峡谷中发生的搞笑对战日常。因动画中对于角色的塑造十分讨喜，使该游戏的众多英雄角色更加深入人心。..."
+                  },
+                  {
+                      "title":  "咒术回战 第二季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全23话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/69683aa3df3dbfc946afc0526296e8c80dfdfed3.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss45574",
+                      "desc":  "这是无敌的两人再也回不去的青春。\n2018年6月，虎杖悠仁被两面宿傩附身。\n2017年12月，乙骨忧太解除祈本里香的诅咒。\n再往前追溯到2006年春——五条悟和夏油杰还在高专时期。\n\n成为咒术师大显身..."
+                  },
+                  {
+                      "title":  "碧蓝之海 第二季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/dcd6e746842fdb988775c8b5f8217ad19b6d4de2.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss102891",
+                      "desc":  "我们的夏天不会结束！北原伊织在伊豆开始大学生活已有三个月——他寄住于潜水用具商店「碧蓝之海（Grand Blue）」，与可爱的表妹古手川千纱住在同一屋檐下。再加上表姐古手川奈奈华、成熟魅力十足的滨冈梓..."
+                  },
+                  {
+                      "title":  "鬼灭之刃 无限列车篇",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全7话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/7c100a22fe2e48c6eb9a739b4ed2999dd401dc8b.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss39444",
+                      "desc":  "结束了在蝶屋中的修行的炭治郎一行人，前往了下一个任务地点——无限列车。\n此处据说在短时间内就有四十人以上的乘客下落不明。\n炭治郎携带着祢豆子，与善逸、伊之助等人，同鬼杀队最强剑士之一的炎柱炼狱杏寿郎汇..."
+                  },
+                  {
+                      "title":  "3年Z组银八老师",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/9a2c61b48a16f292817266cd595b74c89cc033e0.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss112480",
+                      "desc":  "这是以超人气漫画《银魂》番外篇《银魂-3年Z班银八老师》的衍生小说为原作的动画 其名为《银魂多元宇宙动画「3年Z班银八老师」》！..."
+                  },
+                  {
+                      "title":  "镇魂街 第五季",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "即将开播",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/fdebaf94f010f6a5ecb1ac80bcd0b2cca9f258a6.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss119021",
+                      "desc":  "镇魂街世界纷争四起，各方势力蠢蠢欲动，曹、孙、刘三方精诚合作势不可挡，群英殿遭遇重创，灵域统治岌岌可危，无数英雄崭露头角，而新的危机在王国组织的野心之下即将爆发。在镇魂街的世界，谁都敢说“不！”曹焱兵..."
+                  },
+                  {
+                      "title":  "鬼灭之刃 柱训练篇",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全8话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/07a4ec8e2a95558a99859e1e374fe4b634e47aaf.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss47836",
+                      "desc":  "以集英社《JUMP COMICS》1卷~23卷累积发行量突破1亿5000万册的吾峠呼世晴的漫画作品为原作。动画由ufotable制作。\n\n本作的开端是，家人被鬼杀害的少年灶门炭治郎，为了让变成鬼的妹妹..."
+                  },
+                  {
+                      "title":  "雾山五行",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全7话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/c6d4a6d2f601aceb3b18124352e3cebd4c6e2e02.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss33323",
+                      "desc":  "雾山中封印着中国古代传说中的上古麒麟，由五个掌握金、木、水、火、土五行力量家族世代守护。闻人翊悬为救母亲私自打开了巨阙神盾，使小麒麟走失，终于在地膳村寻回了小麒麟并将他带回雾山。消息传开以后，妖兽们虎..."
+                  },
+                  {
+                      "title":  "间谍过家家 第三季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "查看详情",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/92da93b86cca3c48cd91adb5ec87cf1513920feb.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss112827",
+                      "desc":  "每个人都有不可告人的一面。\n\n这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。\n\n\u003c黄昏\u003e是维斯达利斯情报局奥斯塔尼..."
+                  },
+                  {
+                      "title":  "Ｄｒ．ＳＴＯＮＥ 石纪元 (第四季)",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全24话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/834bdb5d36c401179b9e91fdc1de520a6664c2a7.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss80512",
+                      "desc":  "从石器时代到现代文明，\n疾驰过200万年的科学史！\n前所未有的冒险传记，于此开幕！\n\n在宝岛的激战结束后，千空等人平安回到了科学王国。\n他们用得到的石化装置，成功复活了陷入冷冻睡眠的司。\n司成为了科学..."
+                  },
+                  {
+                      "title":  "Re：从零开始的异世界生活 第二季 后半",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/4f3edbede7fc0bdb52842075cf8faaa1c5953eaa.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss36429",
+                      "desc":  "我一定会拯救你。\n在打倒了魔女教大罪司教「怠惰」担当——培提其乌斯·罗曼尼康帝之后，菜月昴和爱蜜莉雅又得以重新开始。\n克服了艰难的诀别，两人终于和解，然而这只是新一轮风波的序幕。\n超乎想象的绝境危机，..."
+                  },
+                  {
+                      "title":  "时光代理人 第三季",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "即将开播",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss105212",
+                      "desc":  "李天辰事件告一段落后，时光照相馆恢复了表面的平静，然而夏斐失踪的消息再次将众人卷入了命运的交叉点。\n随着Vein的回归与乔苓超能力的觉醒，程小时和陆光逐步触及到Bahati火灾案的秘密，而程小时的父亲..."
+                  },
+                  {
+                      "title":  "镇魂街 第四季",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全26话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/22c53b77405270b079b95ad6400d6d6bfd1de377.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48578",
+                      "desc":  "曹焱兵一行因芦花古楼的覆灭被皇甫龙斗领导的天罡龙棋将栽赃嫁祸，全员受到灵域的通缉，在经过“天武街”和“风雷街”时，他们分别遭遇了王国组织的第三骑士红莲与第十骑士凯米拉。其后，曹焱兵为探寻母亲下落，故意..."
+                  },
+                  {
+                      "title":  "我独自升级 第二季 -起于暗影-",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/41a63442ba47c07f3edeb8169b4d0cc217812e7f.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss80763",
+                      "desc":  "在全世界大受欢迎，原作、原案为Chugong，由DUBU（REDICE STUDIO）作画，并由h-goon进行改编的韩国小说、漫画作品。\n舞台是连接异次元与当今世界的通道“传送门”，以及人称“猎人”..."
+                  },
+                  {
+                      "title":  "关于我转生变成史莱姆这档事 第三季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全24话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/9c716a761afd055e6b65c96aac7880d2a960dd0b.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48852",
+                      "desc":  "利姆鲁击败克莱曼，正式成为了魔王。而且魔王盛宴后，他的领地扩大到了鸠拉大森林全域。\n利姆鲁预想到各种族的代表会纷纷前来觐见，便决定借机举办“开国庆典”，以魔王身份正式亮相，并同时为特恩佩斯特吸引新居民..."
+                  },
+                  {
+                      "title":  "剧场版 咒术回战 0",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全1话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/0082a5c243151ef989439578e745785268c58e7d.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48001?theme=movie",
+                      "desc":  "《咒术回战》的原点，一个爱与诅咒的故事。\n由芥见下下创作，集英社《周刊少年JUMP》连载的漫画作品《咒术回战》。于2018年3月开始连载，讲述咒术师以咒术祓除人们负面感情中诞生的诅咒的战斗故事，其单行..."
+                  },
+                  {
+                      "title":  "英雄联盟：双城之战",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全9话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/19ede2f3b057cae6d3155a8012aca7d2922388ae.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48830",
+                      "desc":  "本片作为英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同..."
+                  },
+                  {
+                      "title":  "时光代理人 英都篇",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全6话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/c3566191a329529014cbcc1cb141ba24b2baf366.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48143",
+                      "desc":  "为了拯救死去的程小时，陆光回到了最初，沿着命运的轨迹重新开始。然而一张载着程小时父母线索的照片出现在时光照相馆，为查明真相，陆光怀着忐忑的心情与程小时前往英都。看似友善的当红模特夏斐，举止乖张的唐人街..."
+                  },
+                  {
+                      "title":  "英雄联盟：双城之战 第二季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全9话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/a831f041532a83ed96a590dd0cb405910cf9804e.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48831",
+                      "desc":  "作为英雄联盟首部动画系列剧集，本片第一季荣获九座安妮奖及包括“最佳动画剧集”在内的四项艾美奖。 《双城之战》的故事将在第二季迎来尾声。金克丝的火箭不仅打破了皮尔特沃夫议会厅的玻璃，也打破了皮尔特沃夫和..."
+                  },
+                  {
+                      "title":  "伍六七之记忆碎片",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全10话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/4ca65598089129eb1cb5916f97dbb2c5f032ae88.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48315",
+                      "desc":  "为了找回珍视的伙伴，伍六七重回玄武国，面对那些被遗忘的记忆碎片。尘封的真相带来痛苦与愤怒，但现在的他不再是孤身一人。拥有力量，究竟是为了什么？这一次，伍六七要为自己的人生做出新的选择…..."
+                  },
+                  {
+                      "title":  "间谍过家家 第二季 中配版",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/db3f15b8e5a9eb21890447745ce1c8215a985d52.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss47794",
+                      "desc":  "每个人都有不可告人的一面。 这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。 \u003c黄昏\u003e是维斯达利斯情报局奥斯塔尼亚对..."
+                  },
+                  {
+                      "title":  "时光代理人 第二季",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/88f464de635f87a3a8cec8fbb2b106221efd84e6.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss39666",
+                      "desc":  "为了找到一系列罪案的操纵者，程小时求助于肖力，找寻一切藏匿于暗中的蛛丝马迹。但是拥有未知超能力的凶手在阴影之中，也从没有停止过他的阴谋。神秘少年如影随形，身边伙伴接连遇害，程小时屡次身陷险境。随着追查..."
+                  },
+                  {
+                      "title":  "物理魔法使-马修- 神觉者候选人选拔考试篇",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/3f1b543f7e73b0adc5153f22bb780c5955514b12.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss47210",
+                      "desc":  "这里是魔法界，是理所当然般使用魔法的世界。马修·班迪德是魔法界魔法学校的学生，他为了守护与家人的安稳生活，隐瞒自己不会魔法之事，目标成为君临魔法界的“神觉者”。他用他那千锤百炼的肌肉击退众多精英魔法使..."
+                  },
+                  {
+                      "title":  "间谍过家家 第二季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/a524567f86ec21368731f6dc283f66bd1bd0af92.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss46085",
+                      "desc":  "每个人都有不可告人的一面。\n\n这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。\n\n\u003c黄昏\u003e是维斯达利斯情报局奥斯塔尼..."
+                  },
+                  {
+                      "title":  "强风吹拂",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全23话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/fe356b227e0005454ab2c267c9d7de902eebe837.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss25742",
+                      "desc":  "夜晚。如同逃跑一般奔驰在城市中的藏原走。他的侧面，突然有辆自行车冲来。素不相识的男子，对阿走发问了。“喂！你很喜欢跑步吧！”\n男子的名字是清濑灰二。 就这样，阿走在灰二的引导下，到达了名为竹青庄的老旧..."
+                  },
+                  {
+                      "title":  "镇魂街 第三季",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全16话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/dbf13f1b3a55d9adc9fe5dcfc095b9835aabdef2.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss43547",
+                      "desc":  "该季讲述了，拥有“武神躯”的少年镇魂将——曹焱兵为寻父母下落，与少女夏铃、北落师门等队友，闯入灵域禁地芦花古楼，并与守卫者“风花雪月”四王展开激烈交锋的冒险故事。..."
+                  },
+                  {
+                      "title":  "时光代理人",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/7dac8d193a93409777ce027dba35b068efaca718.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss35220",
+                      "desc":  "在繁华都市的某个角落，有一家叫做“时光照相馆”的小店还在照常营业。虽然门庭冷落，但它背后其实由两个具有特殊能力的男人——程小时和陆光经营着。为了完成顾客的委托，陆光和程小时组队配合使用超能力进入照片，..."
+                  },
+                  {
+                      "title":  "Ｄｒ．ＳＴＯＮＥ 石纪元",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全24话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/ae05a72b11d7f409bbff9475afb13dfca081ffd1.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss27993",
+                      "desc":  "全人类因神秘现象瞬间被石化后，过了数千年——。\n拥有超人头脑的科学少年千空苏醒了。\n\n面对文明灭绝的石之世界，\n千空决心用科学的力量夺回这个世界。\n让体力过人的青梅竹马·大木大树苏醒，\n要从零开始创造..."
+                  },
+                  {
+                      "title":  "物理魔法使-马修-",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/8237a3583efc1aeddd0fe87950364f04108ce8c3.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss44861",
+                      "desc":  "这里是魔法界，是如理所当然般使用魔法的世界。在这魔法界的森林深处，有一位刻苦锻炼肌肉的少年。他叫马修·班迪德，他的秘密是——无法使用魔法。\n他想要与家人过安宁的生活，却在某一天突然被人盯上性命，不知为..."
+                  },
+                  {
+                      "title":  "鬼灭之刃 刀匠村篇",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/6806055cb3a313ff70bb57f899ef49189e5d4c42.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss44860",
+                      "desc":  "故事来到了新的地方——\n炭治郎的目的地是「刀匠村」。\n与鬼杀队的最强剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。\n炭治郎一行人新的战斗即将开始。..."
+                  },
+                  {
+                      "title":  "国王排名 勇气的宝箱",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全10话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/56245da8a6f0c24e2cf966910ee336d41761a3a2.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss44863",
+                      "desc":  "《国王排名》讲述的是一位弱小的聋哑王子·波吉和他的挚友·卡克的冒险故事。\n本次动画化的《国王排名 勇气的宝箱》，将展现前作第23集「国王与太阳」中未能展现的角色的崭新一面，讲述波吉、卡克及其同伴们那不..."
+                  },
+                  {
+                      "title":  "间谍过家家 中配版",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全25话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/b35f2f8e9a445e1b7d1db1e9053ea0f70bd35527.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss43622",
+                      "desc":  "每个人都有不可告人的一面。\n\n这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。\n\n\u003c黄昏\u003e是维斯达利斯情报局奥斯塔尼..."
+                  },
+                  {
+                      "title":  "银魂 最终篇",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全1话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/18901faee9a47ddedcc5ad76f61542de72a63704.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss45072?theme=movie",
+                      "desc":  "“阿尔塔纳”能量，是存在于每颗星球上的生命源泉，它创造出了名叫虚的魔人，而虚是个多年间历经数次生死轮回，不老不死的怪物。并在数次重生之中，诞生出一个叫吉田松阳的人格，这位松阳老师就是曾经开办松下村塾，..."
+                  },
+                  {
+                      "title":  "奇幻世界舅舅",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/7edad1244ad72416dd576866e0513665f2fc9f40.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss42105",
+                      "desc":  "2017年秋天――\n\n17岁时被卡车撞到，\n并在此后17年间昏睡不醒的舅舅醒了。\n前往病房探望的外甥敬文看到的是，口中嘟囔着莫名其妙的话语，\n从奇幻世界「格兰巴哈马尔」回到现实世界的舅舅。\n\n……舅舅..."
+                  },
+                  {
+                      "title":  "伍六七之暗影宿命",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全10话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/6e5c5848ff8943fd6366e943a4f75b98598c50c6.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss44176",
+                      "desc":  "随着伍六七回到玄武国寻找他的身世，亦引起了七大暗影刺客的追捕。然而每一位暗影刺客都带着不同的目的和不同的过去，青凤的阴谋也在此浮出了水面。而此时等待着小鸡岛上的人民，又将是另一个危机，伍六七将如何面对..."
+                  },
+                  {
+                      "title":  "间谍过家家 粤配版",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全25话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/63bbcd872b765f2d76fbc353193bb09f59ed48a1.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss43056",
+                      "desc":  "每个人都有不可告人的一面。\n\n这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。\n\n\u003c黄昏\u003e是维斯达利斯情报局奥斯塔尼..."
+                  },
+                  {
+                      "title":  "间谍过家家",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全25话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/f50a08cc1562f2c1e933b656c00db3fcafd110e9.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss41410",
+                      "desc":  "每个人都有不可告人的一面。\n\n这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。\n\n\u003c黄昏\u003e是维斯达利斯情报局奥斯塔尼..."
+                  },
+                  {
+                      "title":  "女高中生的虚度日常",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/4bcc16c200fc2fb67372d65bfdd8960f99874edc.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss28016",
+                      "desc":  "被浪费的青春——\n偏差值差不多的田中（通称“笨蛋”）、沉迷于BL的菊池（通称：“御宅”）、面无表情的才女・鹭宫（通称“机器人”）。个性十足的女高中生们无所事事的日常校园生活——..."
+                  },
+                  {
+                      "title":  "Re：从零开始的异世界生活 第二季 前半",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/f2425cbdb07cc93bd0d3ba1c0099bfe78f5dc58a.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss33802",
+                      "desc":  "我一定会拯救你。\n在打倒了魔女教大罪司教「怠惰」担当——培提其乌斯·罗曼尼康帝之后，菜月昴和爱蜜莉雅又得以重新开始。\n克服了艰难的诀别，两人终于和解，然而这只是新一轮风波的序幕。\n超乎想象的绝境危机，..."
+                  },
+                  {
+                      "title":  "Re：从零开始的异世界生活 新编集版",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/3c125e1aad08643e3eff2fb7d45e740c1a052725.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss29590",
+                      "desc":  "在从便利商店回家的路上，突然被异世界召唤的少年菜月昴。在无法依靠任何东西的异世界，无力的少年手唯一的力量……那是“死去然后重新开始”的力量。为了守护最重要的人们，为了取回确实存在着又无可替代的时间，少..."
+                  },
+                  {
+                      "title":  "关于我转生变成史莱姆这档事 第二季",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全26话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/fd492888df64bbc3b821dac5d516dbc1c2fe5f08.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss36170",
+                      "desc":  "主人公利姆鲁与仰慕他而聚集的众多魔物们所建立的国家「鸠拉·特恩佩斯特国」，经由与邻国的协议及交易，让「人类与魔物共同漫步的国家」这一温柔的理想逐步成形。\n\n利姆鲁作为曾是人类的史莱姆当然拥有「对人类的..."
+                  },
+                  {
+                      "title":  "关于我转生变成史莱姆这档事",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全28话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5bb07da925bad.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss25739",
+                      "desc":  "史莱姆生活，开始了。\n上班族的三上悟在道路上被歹徒给刺杀身亡后，回过神来发现自己转生到了异世界。\n不过，自己居然是“史莱姆”！\n他在得到利姆鲁这个名字后开始了自己的史莱姆人生，随着与各个种族相处交流的..."
+                  },
+                  {
+                      "title":  "关于我转生变成史莱姆这档事 转生史莱姆日记",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/cac1699418451387f93572066b7e5d14d799d3cd.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss38221",
+                      "desc":  "美妙的史莱姆人生！\n\n累计突破50万部的大人气外传四格漫画『转生史莱姆日记』，作为转生史莱姆的外传系列首次TV动画化！\n「因为拿到了贵重的纸，我把至今为止发生的事情以日记形式记录了下来。开头的话就这么..."
+                  },
+                  {
+                      "title":  "鬼灭之刃 游郭篇",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全11话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/f641f81aa1933d73c91d5ef76b525acbcdbcf3e7.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss39433",
+                      "desc":  "结束了无限列车的任务，炭治郎前往下一个任务地点。\n与鬼杀队最强之一的音柱·宇髄天元一同前往鬼所栖身的游郭之中。\n新的战斗即将开幕。..."
+                  },
+                  {
+                      "title":  "小林家的龙女仆 第二季",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/847e9dbb6876fb37a30199a5c88910704976d45b.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss38921",
+                      "desc":  "那位不可思议的龙女仆再度登场！\n因为各种奇妙的原因而作为小林家的女仆而工作中的龙·托尔。\n偶尔（胡说，是经常）给亲爱的小林添麻烦，总算是融入了人类社会，成为了一个完美的（骗人，也就还行）女仆。\n同样是..."
+                  },
+                  {
+                      "title":  "国王排名",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全23话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/8aead7650fb3ded88f24654b7b66823169cb9a8c.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss39462",
+                      "desc":  "国家的丰饶、麾下勇者的数量、\n以及国王本人如何像勇者一般强大，\n这些要素的综合排名，便是所谓的“国王排名”。\n主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。\n但是波吉却生来又聋又哑，贫弱到挥不..."
+                  },
+                  {
+                      "title":  "刀剑神域",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全25话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/fcdb9db0cc3f5c0c3aaa4ca1a9ddea6c121db471.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss4452",
+                      "desc":  "2022年，人类实现了现实世界和假想空间的融合，电子制造商开发了名为《刀剑神域（Sword Art Online）》的在线电子游戏。SAO甫一面世便大受好评，限量一万份的名额在发售当天的短时间内便被抢..."
+                  },
+                  {
+                      "title":  "冰菓",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全23话",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/f623059d4e370a5b09a7c27b5a035895b40d18f8.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss3398",
+                      "desc":  "在众多将要展开「玫瑰色」生活的高中生之中，本作的男主角折木奉太郎却是一个「灰色」的节能主义者。凡是没必要的事就不做，因为不想后悔，被人说是疏离、厌世也无所谓，因为这就是他的作风。这样的折木奉太郎，却因..."
+                  },
+                  {
+                      "title":  "伍六七",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/b69e26d9e50514f3fa99eac9ab5aabf2a6e28c88.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6360",
+                      "desc":  "在某个小岛上，有一个可以伪装成任何东西的廉价刺客，名叫伍六七。平时看上去是个理发师，其实背地里却做着刺客生意。热爱理发事业，喜欢给人剪头发，善用剪刀——剪刀也是他的刺杀武器。由于初入刺客行当，行情十分..."
+                  },
+                  {
+                      "title":  "黑白无双 第三季",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/e8fe51f0665518aeb9e59d492c5ee1eb0b4e9a8f.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss35197",
+                      "desc":  " 人死分三魂。天魂归天、人魂留墓、地魂归地。东地有地界、西地有冥界，安纳世间地魂。东地地界常设黑白无双二职，引导地魂入地界，顺天地大道护自然之理。..."
+                  },
+                  {
+                      "title":  "异世界迷宫黑心企业",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/ab9dba31e9ca45012a44625327b6c1239005fbd4.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss38934",
+                      "desc":  "「不想工作！」\n在这样的想法下不断努力，靠着不劳而获的收入成为了「上流家里蹲」的二之宫锦司。\n正在他打算到死为止都要这样懒惰地生活下去时……出于某种原因突然穿越到异世界！\n那里是一个「迷宫就是职场」的..."
+                  },
+                  {
+                      "title":  "镇魂街 第二季",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全10话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/6a762ae614e567fc5c322c8cb240bcd4d1e06969.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss5626",
+                      "desc":  "罗刹街镇魂将曹焱兵和寄灵人夏铃踏上修复灵槐之路，羽林街镇魂将南御夫却受命缉拿曹焱兵，恰有菩提街镇魂将北落师门出面平息事态。但南御夫心怀鬼胎，北落师门与女孩水儿也暗藏秘密，曹焱兵和夏铃又将如何应对。菩提..."
+                  },
+                  {
+                      "title":  "伍六七之玄武国篇",
+                      "status":  "watched",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全10话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/00843865ea13702eccc4efd64c313fd4c8029c6b.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss36594",
+                      "desc":  "为了保护小鸡岛居民和这里平静的生活，伍六七和他的伙伴大保和小飞开启了去往玄武国的冒险旅程，去寻找身世的真相和解救小岛的办法，等待他们的又将是更多的未知与奇遇。..."
+                  },
+                  {
+                      "title":  "奇蛋物语 / WONDER EGG PRIORITY",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/eac2af01d95a4ec057f3ede3dae4bbf6d9d4db34.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss36209",
+                      "desc":  "14岁少女·大户爱在深夜散步的途中，\n随着神秘声音的指引，获得了一枚「蛋」。\n\n「如果想要改变世界的话」\n「那么就在现在做出选择」\n「请相信自己——」\n「打破这枚蛋——」\n\n而在打破「蛋」之后，等待着..."
+                  },
+                  {
+                      "title":  "银魂",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全200话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/087b862b772ee4e644478a36c757a26db476193d.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss38157",
+                      "desc":  "江户时代末期， 被称为“天人”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签..."
+                  },
+                  {
+                      "title":  "咒术回战",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全24话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss34430",
+                      "desc":  "少年战斗着——「为寻求正确的死亡」\n辛酸·后悔·耻辱\n\n人类产生的负面情感，化为诅咒，潜入日常生活\n\n诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡\n并且，诅咒只能以诅咒祓除\n\n拥有惊人身体..."
+                  },
+                  {
+                      "title":  "青春猪头少年不会梦到兔女郎学姐",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/1cc333ff578e5ea9fded7e454953a4e2291440c2.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss25733",
+                      "desc":  "青春期症候群——这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。\n她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周..."
+                  },
+                  {
+                      "title":  "碧蓝之海",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/7c9002f893f1a9debde1c38b860d64ef31c20d03.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss24581",
+                      "desc":  "北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n这样的伊织所面临的却是——除了野球拳..."
+                  },
+                  {
+                      "title":  "宇崎学妹想要玩！",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/9477f8b8f2e9fefa328f8f9e3f6f6cc1e00d5aa9.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss33800",
+                      "desc":  "性格有些孤僻喜爱安静的大学３年级生，樱井真一。\n总是被小一届，同高中毕业的学妹宇崎花，以各种照顾爱耍孤僻的学长的名义为由，进行各种无厘头的纠缠。\n虽然一开始觉得有点困扰，但却逐渐习惯起来…..."
+                  },
+                  {
+                      "title":  "鬼灭之刃",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全26话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/4179b4398bad6f92e876e352cae21be7b8ceb8bf.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss26801",
+                      "desc":  "大正时期，日本。心地善良的卖炭少年·炭治郎，有一天他的家人被鬼杀死了。而唯一幸存下来的妹妹——祢豆子变成了鬼。被绝望的现实打垮的炭治郎，为了寻找让妹妹变回人类的方法，决心朝着“鬼杀队”的道路前进。\n人..."
+                  },
+                  {
+                      "title":  "天使降临到我身边",
+                      "status":  "watched",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/e1015a803ad97406f9eddfbc6ad608cc965f8b05.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss26291",
+                      "desc":  "怕生的御宅族女大学生宫子，遇到了天使般的小学生！？在看到妹妹带来的新朋友小花的瞬间，宫子就无法抑制住心跳！！她为了和小花成为朋友而奋斗，但……“想要和超绝可爱的她做朋友”系小品喜剧，开幕！..."
+                  },
+                  {
+                      "title":  "我女友与青梅竹马的惨烈修罗场",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/654466a6f0cf9aa9b73b800da152a460bfabbb89.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss2667",
+                      "desc":  "主人公季堂锐太是个成绩优秀的高中一年级学生，同时也是个恋爱反对派。本来是和像自己妹妹一般的青梅竹马一起过着普通的高中生活的，但某天却被校内公认的第一美人，归国子女夏川真凉表白了。然而真凉的真实意图却是..."
+                  },
+                  {
+                      "title":  "中二病也要谈恋爱！",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/9b2fadeebea37c5da20ec9215fc4056caee69584.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss4340",
+                      "desc":  "富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利度过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方..."
+                  },
+                  {
+                      "title":  "一人之下 第二季",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全24话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/f4e355ac82b4508e26f1883e92320879151453a7.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6402",
+                      "desc":  "这个世界是存在异人的。张楚岚为了解开爷爷和自身的秘密，和冯宝宝一起前往龙虎山天师府参加异人界的盛会——罗天大醮，并与众多异人高手对战。\n..."
+                  },
+                  {
+                      "title":  "大理寺日志",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/08ee22bd12db1c9d8a878c3c6f665bc3f5758fa0.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss32321",
+                      "desc":  "在唐朝武明空统治时期，以主管全国大案要案的大理寺为舞台，讲述大理寺众人，在白猫少卿李饼的带领下，展开各种惊心动魄的破案冒险，向命运反抗，坚守自己内心正义的故事。..."
+                  },
+                  {
+                      "title":  "中二病也要谈恋爱！恋",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/b69a9fc2ce1c50915b3158c2f6ac51ed64101b23.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss4349",
+                      "desc":  "由于各种原因导致失去住所的六花开始寻找新家，但过程并不顺利，最终来到了勇太的家里。\n然而，勇太的家人却留下勇太一个人到雅加达去了。\n现在开始的同栖生活！？这样想着心跳不已的两个人。\n但此时樟叶为了迎考..."
+                  },
+                  {
+                      "title":  "格莱普尼尔",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全13话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/f1140e330bc5993aafcea1087c542a640e4ba459.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss32956",
+                      "desc":  "学习方面还行，也有朋友。虽然的确是有一点被上天所眷顾着，但还是个普通男子高中生的加贺谷修一，有着可以变身为怪物的这一秘密。并不是那种被世间所惧怕的怪物……而是布偶怪物。他曾经所爱的平稳日常，某一天突然..."
+                  },
+                  {
+                      "title":  "干物妹！小埋",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/e7fb0d62e99b974e00e19b68e51e8b1fcdfc02d5.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss2580",
+                      "desc":  "我的妹妹小埋16岁，完美的妹妹，完美的高中生，但在家里却是个超懒的干物妹。\n然而妹妹在家的一切她生活中的朋友并不知道，居住在同一栋楼的天然少女，以及无意间来到我家的冷酷少女，她们会发现小埋的真实面目吗..."
+                  },
+                  {
+                      "title":  "一人之下",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/af334241d73ff092c5d78d0c9ee9ad893592f9c4.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss5050",
+                      "desc":  "这个世界是存在异人的。 张楚岚就是一个隐藏在普通人中的异人。在生命的前19年中，他一直小心隐藏着自己和别人的不同。直到有一天，神秘少女冯宝宝找上了他。从此他被活尸追，被怪人砍，被卷入了前所未见的麻烦之..."
+                  },
+                  {
+                      "title":  "龙王的工作！",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/b0207dd5dd7a1ce700b9e8f4dbbcfe03c922be6a.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss21554",
+                      "desc":  "本片围绕着“将棋”这个竞技项目展开，主人公“九头龙八一”仅16岁就获得了将棋界最强头衔“龙王”，某天他的家中竟突然出现了一名9岁的小学女生“雏鹤爱”，并且对方还要成为八一的弟子？！在这样的背景下，一场..."
+                  },
+                  {
+                      "title":  "小林家的龙女仆",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全14话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/c72a95c3cae82f58f8fa25facd40960aa2003d26.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss5800",
+                      "desc":  "在单身的辛苦OL小林身边突然出现的女仆装束的美少女托尔。\n长着角和尾巴的她的身姿正是所谓的龙娘。\n在醉酒的小林邀请下说要到家里去的托尔，鬼使神差地开始以小林家女仆的身份工作……！？\n“女仆”+“龙”=..."
+                  },
+                  {
+                      "title":  "笨女孩",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/c897c607f6d2e40a18cb9656aed48ea26c252721.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6311",
+                      "desc":  "空前绝后的笨蛋，就在这里！\n笨到无可救药的女高中生·花畑佳子。\n非常喜欢香蕉。\n非常喜欢青梅竹马的阿君。\n以上！..."
+                  },
+                  {
+                      "title":  "群居姐妹 OVA",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全1话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/39230196bdc3cc886fc70fb2812311bcf9914125.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6538",
+                      "desc":  "生活在某个住宅区中的仲野一家，为拥有七人规模的大家庭。由于父母亲经常不在家的关系，所以总是由晴辉、梦月、弥生、羽月及咲月这1男4女的孩子们一同生活。而身任长男的晴辉总是要应付个性大不相同的4位姐妹，虽..."
+                  },
+                  {
+                      "title":  "如果能写小说就好了",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/bdcab81683bf4f048de4fa4fe0754c3650e93fea.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6440",
+                      "desc":  "小说家‧羽岛伊月，随时有一群充满个性的人聚集在他的身旁。\n爱与才能都是重量级，高阶的缺憾系美少女‧可儿那由多。\n对恋爱迷惘对友情迷惘对梦想迷惘的青春三冠王‧白川京。\n鬼畜税金拯救者‧大野艾希莉。\n天才..."
+                  },
+                  {
+                      "title":  "伍六七之最强发型师",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全10话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/d179871a635e9c908a53be6580714ce3c6fee5ba.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss28510",
+                      "desc":  "伍六七在帮助别人和寻找自我的过程中，认识了不同的人，并与不同角色之间发生了有趣的故事，最终用爱与包容化解了仇恨与偏见。..."
+                  },
+                  {
+                      "title":  "男子高中生的日常",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/3004faf93cb5a78aa4d2122e25d914ec8640a273.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss2680",
+                      "desc":  "在一个普通的城市里，一班普通的男子高中生过著普通的日常生活。想像机动战士和冒险故事，放学后交女朋友的方法，对女生的裙子充满幻想，在家讲恐怖鬼故事，与女生同行被误会，以及遇上文学少女的小插曲，这一切都是..."
+                  },
+                  {
+                      "title":  "欢迎来到实力至上主义的教室",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/a79e331b7443ed5df5a2acd345dc41d598d46ff9.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6339",
+                      "desc":  "——真正的实力，平等究竟是什么？\n几乎百分之百实现升学、就业目标的全国首屈一指的名门校──高度育成高等学校。这间简直如同乐园般的学校，真面目却是唯有优秀者才能享受优待的实力至上主义学校！绫小路清隆被分..."
+                  },
+                  {
+                      "title":  "樱花庄的宠物女孩",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全24话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/7bf8baf33c1ecd4a7fea91e81d0143aabe1e1b7c.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss687",
+                      "desc":  "就读于水明艺术大学附属高中的神田空太，一年级夏天时因为在宿舍养猫而被校长叫去问话，并要他把猫赶走，不然就搬出宿舍。身为爱猫一族的空太企图反抗，结果被撵出了宿舍，流落到恶名昭彰的“樱花庄”。 隔年春天，..."
+                  },
+                  {
+                      "title":  "黑白无双 第二季",
+                      "status":  "watching",
+                      "type":  "国创",
+                      "group":  "追番",
+                      "progress":  "全12话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/2112a9d4948d0b71149fd03de824b7e3b25fbbfe.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss6358",
+                      "desc":  "在奈河的彼岸，是终年黑夜的地界，地界通过鬼差维持着三界生死平衡……而专程前往人间收灵的鬼差就是黑白无双。黑白无双吊车尾组合——小黑小白，在经历了百鬼封印事件后，两人关系若即若离，小白的身世也渐渐浮出水..."
+                  },
+                  {
+                      "title":  "我的妹妹不可能那么可爱 第一季",
+                      "status":  "watching",
+                      "type":  "番剧",
+                      "group":  "追番",
+                      "progress":  "全16话",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/94466dbf154b7da5fa0f1f20dae476efe8892368.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss2660",
+                      "desc":  "电视动画《我的妹妹哪有这么可爱！》改编自由日本轻小说家伏见司原作的同名轻小说，剧情对应原作小说的前5卷内容。..."
+                  },
+                  {
+                      "title":  "神奇动物：邓布利多之谜",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2022-04-08上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/340561f7599842e80c0ae6da244049b6eb306217.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss42077?theme=movie",
+                      "desc":  "阿不思·邓布利多教授（裘德·洛 饰）意识到强大的黑巫师盖勒特·格林德沃（麦斯·米科尔森 饰）正试图夺取魔法世界的控制权。邓布利多了解仅凭他一人之力，将无法阻止格林德沃，于是他委托魔法动物学家纽特·斯卡..."
+                  },
+                  {
+                      "title":  "星际穿越",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2014-11-07上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/3b8acd7a69aa3462297b0b1f206e7093e4961914.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss28585?theme=movie",
+                      "desc":  "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀（马修·麦..."
+                  },
+                  {
+                      "title":  "名侦探柯南：万圣节的新娘",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2022-04-15上映",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/7d516be6af5220282c92f6eb4b0b73418c20cbf5.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss44141?theme=movie",
+                      "desc":  "　　正值万圣节之际，东京涉谷热闹非凡。涉谷HIKARIE大厦里正在举办一场婚礼，身着婚纱的便是——警视厅的佐藤警官。当柯南等宾客都在见证这场婚礼的时候，突如其来的暴徒向佐藤扑去！高木为了保护佐藤而受伤..."
+                  },
+                  {
+                      "title":  "无穷之路4：一带一路",
+                      "status":  "watched",
+                      "type":  "纪录片",
+                      "group":  "影视",
+                      "progress":  "全10集",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/7dfaaedc9bfd7cbead819949de49e229b37a6061.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss89322",
+                      "desc":  "《无穷之路4》是由TVB制作出品的纪录片，由陈贝儿担任主持人。该片于2024年10月6日起在香港首播。本季节目中，摄制队花了两个月时间、走访了马达加斯加、埃及、希腊、塞尔维亚、沙特阿拉伯、阿联酋及肯尼..."
+                  },
+                  {
+                      "title":  "后天",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2004-05-28上映",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/839683656c9eaabe48c5d84a06b47e52a613f422.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss46319?theme=movie",
+                      "desc":  "美国气候学家杰克（丹尼斯•奎德 Dennis Quaid 饰）认为，温室效应正在引发地球的大灾难，北极冰川的融化，会让地球回到冰河世纪那样的劫难。他的提醒并没有引起美国当局的重视，一切都已经太晚：飓风..."
+                  },
+                  {
+                      "title":  "无穷之路3 无垠之疆",
+                      "status":  "watched",
+                      "type":  "纪录片",
+                      "group":  "影视",
+                      "progress":  "全10集",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/1fc03284e05c1007e849a7984a7976ef329c3d9c.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48302",
+                      "desc":  "《无穷之路3：无垠之疆》是由TVB制作出品，陈贝儿主持的纪录片，于2023年11月8日在中国香港首播，随后也在中国大陆等地播出。该片是《无穷之路》系列纪录片的第三季，以民族融合为主题，聚焦美丽又神秘的..."
+                  },
+                  {
+                      "title":  "无穷之路3 无垠之疆（粤语版）",
+                      "status":  "watched",
+                      "type":  "纪录片",
+                      "group":  "影视",
+                      "progress":  "全10集",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/8224c8ada0657e22e61e5ddc55948161bcc44521.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss48303",
+                      "desc":  "《无穷之路3：无垠之疆》是由TVB制作出品，陈贝儿主持的纪录片，于2023年11月8日在中国香港首播，随后也在中国大陆等地播出。该片是《无穷之路》系列纪录片的第三季，以民族融合为主题，聚焦美丽又神秘的..."
+                  },
+                  {
+                      "title":  "建军大业",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2017-07-27上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/b6925452f182df88d817fff3c327cdb5edcadf73.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss12102?theme=movie",
+                      "desc":  "1927年，国民党“右派”为夺权叛变革命，发动了疯狂的“清共”行动。由于没有自己的武装力量，成立不足7年的中国共产党在国民党“右派”的屠杀下，几乎遭遇毁灭性打击。血的教训使毛泽东、周恩来等党内进步分子..."
+                  },
+                  {
+                      "title":  "至暗时刻",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2017-12-01上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/9c1c732ddc40c2c5e62bd2d35b92d8dd99dddc24.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss41651?theme=movie",
+                      "desc":  "影片讲述英国首相丘吉尔在作为首相期间面临的最重要的审判：是向纳粹妥协做俘虏，还是团结人民群起反抗？丘吉尔将集结整个国家为自由奋战，试图改变世界历史进程，度过黎明前的黑暗。..."
+                  },
+                  {
+                      "title":  "敦刻尔克",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2017-09-01上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/2f9c33c09a690431f89fe3cc78649026269977dc.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss39311?theme=movie",
+                      "desc":  "故事改编自著名的二战军事事件“敦刻尔克大撤退”。二战初期，40万英法盟军被敌军围困于敦刻尔克的海滩之上，面对敌军步步逼近的绝境，形势万分危急。英国政府和海军发动大批船员，动员人民起来营救军队。英国士兵..."
+                  },
+                  {
+                      "title":  "刀剑神域进击篇:暮色黄昏",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2023-05-26上映",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/e12f2187aede6b98891eb9d87a751df7c580466a.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss45125?theme=movie",
+                      "desc":  "世界首个VRMMORPG游戏《Sword Art Online》成为了“死亡游戏”。距1万名用户被困在游戏中一事发生，已有一个多月。攻略了钢铁浮游城“艾恩葛朗特”第一层后，亚丝娜继续与桐人搭档，以最顶..."
+                  },
+                  {
+                      "title":  "刀剑神域进击篇：无星之夜",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2021-10-30上映",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/12393b2432591447067635ef15e420a7dce6d37f.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss45208?theme=movie",
+                      "desc":  "讲述在浮游城“艾恩葛朗特”从第一层开始往上攻略的故事。"
+                  },
+                  {
+                      "title":  "闪闪发光的少年 第二季",
+                      "status":  "watched",
+                      "type":  "纪录片",
+                      "group":  "影视",
+                      "progress":  "全8集",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/0748338b963880bcf3b44a3676a4946364e80ac5.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss44016",
+                      "desc":  "《闪闪发光的少年》是由央视频出品的一档展示时代青年样本的青春纪实微综艺。每期节目以“90后”总台记者王冰冰的视角，发掘每位青少年榜样的“发光故事”。第二季节目延续探访运动健儿的同时，将拓展更多元领域的..."
+                  },
+                  {
+                      "title":  "教父2",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "1974-12-12上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/e257db9892cfd9caad243a314ff86d4b74363d24.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss26427?theme=movie",
+                      "desc":  "影片主要讲述第二代教父麦克·柯里昂（阿尔·帕西诺 饰）的奋斗历程，同时回忆了第一代教父维多·柯里昂（罗伯特·德尼罗 饰）创业的艰辛，反映了不同历史时期，两代教父的事业、家庭生活。\n麦克为儿子托尼举行圣..."
+                  },
+                  {
+                      "title":  "教父3",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "1990-12-25上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/88bbe8214af34167cd3df4eceb178734e41982a3.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss26428?theme=movie",
+                      "desc":  "转眼间已经是1979年，第二代教父麦克•柯里昂（阿尔•帕西诺 饰）到了垂暮之年，为了灵魂的救赎，麦克慢慢结束家族的黑道事业，转投正当生意。\n麦克的儿子托尼酷爱艺术，无意接手家族事业，迈克尔决定让大哥逊..."
+                  },
+                  {
+                      "title":  "教父",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "1972-03-15上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/486279f1e8d4d93866747d68341fd3ce0c614af6.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss26416?theme=movie",
+                      "desc":  "40年代的美国，“教父”维多·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。因为拒绝了毒枭索洛佐的毒品交易要求，柯里昂家族..."
+                  },
+                  {
+                      "title":  "扬名立万",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2021-11-11上映",
+                      "cover":  "https://i0.hdslb.com/bfs/bangumi/image/59d1bd956f1f63dd6fe7da5782da1f158ed192bc.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss39892?theme=movie",
+                      "desc":  "月黑风高之夜，一群电影人被秘密召集到一起，欲将轰动一时的血案翻拍成电影，借此扬名立万。殊不知他们正身处案发现场，并步步陷入一个巨大迷局之中，而凶手就在他们中间……伴随着利欲熏天的创作风暴，案件背后的故..."
+                  },
+                  {
+                      "title":  "无穷之路（粤语版）",
+                      "status":  "watched",
+                      "type":  "纪录片",
+                      "group":  "影视",
+                      "progress":  "全12集",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/a24d50235db952b1766e7b3f1f0a9651e64c465b.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss40061",
+                      "desc":  "节目由陈贝儿担任主持，与摄制队穿梭全国六个省份，包括：四川、云南、宁夏、海南、广西、贵州，深入十个贫困县。整个旅程历时两个多月，经历几千里路。走遍南北踏上「无穷之路」，由全国最南部的热带雨林、走到云贵..."
+                  },
+                  {
+                      "title":  "闪闪发光的少年",
+                      "status":  "watched",
+                      "type":  "综艺",
+                      "group":  "影视",
+                      "progress":  "全7集",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/4165ed8699af5964a2e3cf494a433f5dc2531989.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss40940",
+                      "desc":  "《闪闪发光的少年》是由央视频出品，bilibili联合播出的一档纪实类微综艺。\n在过去的1年里，中国的运动健儿以少年之姿，重新定义了新的“国民榜样”。每期节目以王冰冰的个人视角，发掘每位少年榜样的“发..."
+                  },
+                  {
+                      "title":  "让子弹飞",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2010-12-16上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/371e9be67b2ae3938a8bafa2b80b466268f34b9d.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss12548?theme=movie",
+                      "desc":  "民国年间，花钱捐得县长的马邦德（葛优 饰）走马上任，遭劫匪张麻子（姜文 饰）一伙伏击。马为保命，谎称自己是县长的汤师爷。为汤师爷许下的财富所动，张麻子摇身一变，化身县长，带着手下上任。鹅城地处偏僻，一..."
+                  },
+                  {
+                      "title":  "神奇动物在哪里",
+                      "status":  "watched",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2016-11-25上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/6c7a66340ceadadeb55a2aa0a0e3455ea5546891.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss34074?theme=movie",
+                      "desc":  "故事发生在1926年的纽约，彼时，麻鸡们对魔法师的抵制达到了最高峰，由玛丽露所领导的反魔法组织活动频繁。与此同时，街头巷尾之中时时发生的种种灾难意外让魔法世界的存在离暴露仅有一线之隔，整个魔法部陷入了..."
+                  },
+                  {
+                      "title":  "风犬少年的天空",
+                      "status":  "watched",
+                      "type":  "电视剧",
+                      "group":  "影视",
+                      "progress":  "全16集",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/image/874d8d77ffd1e08c6706cd9a8358eaba27d5e36e.png",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss33981",
+                      "desc":  "《风犬少年的天空》是由bilibili出品，张一白、韩琰、李炳强执导，彭昱畅、张婧仪、梁靖康、周依然、张宥浩、郭丞、周游等主演的社会青春剧。\n\n千禧年间，故事发生在一所位于市中心的学校，清新单纯的校园..."
+                  },
+                  {
+                      "title":  "哈利·波特与魔法石",
+                      "status":  "watching",
+                      "type":  "电影",
+                      "group":  "影视",
+                      "progress":  "2001-11-04上映",
+                      "cover":  "http://i0.hdslb.com/bfs/bangumi/dd9a113e724e3c60dc2da31562e45d57e3c2d707.jpg",
+                      "url":  "https://www.bilibili.com/bangumi/play/ss28281?theme=movie",
+                      "desc":  "哈利·波特是一个孤儿，从小寄养在姨妈家，受尽欺凌。但就在哈利11岁生日的时候，他意外收到了霍格沃茨学院的入学通知书。哈利从该学院派来接他的巨人海格口中得知，这是一间魔法学院，并得知了自己的身世，原来哈..."
+                  }
+              ],
+    "mangaItems":  [
+                       {
+                           "title":  "B站追漫列表",
+                           "status":  "planned",
+                           "type":  "追漫",
+                           "group":  "追漫",
+                           "progress":  "B站漫画书架接口需要登录态，点击跳转查看。",
+                           "cover":  "/img/bangumi-fallback.svg",
+                           "url":  "https://manga.bilibili.com/",
+                           "desc":  "公开开关已打开，但 B站漫画接口仍要求登录授权。"
+                       }
+                   ]
+}
