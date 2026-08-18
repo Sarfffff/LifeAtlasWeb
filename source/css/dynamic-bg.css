@@ -7,20 +7,23 @@
 #nav {
   position: fixed !important;
   top: 18px;
-  left: 50%;
+  left: 0 !important;
+  right: 0;
   display: flex;
   align-items: center;
   justify-content: flex-start;
   gap: 14px;
   width: min(1500px, calc(100% - 52px));
   min-height: 54px;
+  box-sizing: border-box;
   padding: 0 18px;
   border: 1px solid rgba(255, 255, 255, 0.34);
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.82) !important;
   box-shadow: 0 16px 46px rgba(5, 10, 18, 0.16);
   backdrop-filter: blur(18px);
-  transform: translateX(-50%);
+  margin-inline: auto;
+  transform: none !important;
 }
 
 #nav a,
@@ -154,8 +157,10 @@
 #nav.fixed {
   position: fixed !important;
   top: 12px;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0 !important;
+  right: 0;
+  margin-inline: auto;
+  transform: none !important;
 }
 
 #body-wrap {
@@ -163,7 +168,10 @@
 }
 
 #content-inner {
+  width: min(1460px, calc(100% - 40px));
   max-width: 1460px;
+  box-sizing: border-box;
+  margin-inline: auto;
 }
 
 #aside-content .card-widget,
@@ -1453,6 +1461,15 @@
   color: #64748b;
 }
 
+#recent-posts .recent-post-item .content {
+  display: -webkit-box;
+  overflow: hidden;
+  margin-top: 14px;
+  line-height: 1.8;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+
 #recent-posts .recent-post-item.search-hidden {
   display: none !important;
 }
@@ -2084,11 +2101,109 @@
     linear-gradient(90deg, rgba(3, 8, 14, 0.76), rgba(3, 8, 14, 0.12) 56%, rgba(3, 8, 14, 0.42));
 }
 
-#page-header #site-info,
-#page-header #scroll-down,
-#page-header #nav {
+#page-header #site-info {
+  position: absolute !important;
+  z-index: 3;
+}
+
+#page-header #scroll-down {
   position: relative;
   z-index: 3;
+}
+
+#page-header #nav {
+  z-index: 3;
+}
+
+#page-header.full_page #site-info {
+  top: 46%;
+  left: 50%;
+  width: min(760px, calc(100% - 40px));
+  box-sizing: border-box;
+  transform: translate(-50%, -50%);
+}
+
+#page-header.full_page #site-title {
+  margin: 0;
+  font-size: clamp(40px, 6vw, 72px);
+  letter-spacing: 0.08em;
+}
+
+.lifeatlas-hero-intro {
+  margin: 18px auto 0;
+  text-align: center;
+}
+
+.lifeatlas-hero-kicker {
+  margin: 0 0 12px;
+  color: #c6ff3d;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.16em;
+}
+
+.lifeatlas-hero-summary {
+  max-width: 680px;
+  margin: 0 auto;
+  color: rgba(241, 245, 249, 0.92);
+  font-size: clamp(15px, 1.6vw, 18px);
+  line-height: 1.8;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.52);
+}
+
+.lifeatlas-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.lifeatlas-hero-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 18px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(8, 15, 26, 0.46);
+  font-size: 14px;
+  font-weight: 800;
+  backdrop-filter: blur(12px);
+  transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+
+.lifeatlas-hero-actions a:hover {
+  border-color: rgba(198, 255, 61, 0.72);
+  color: #fff;
+  background: rgba(8, 15, 26, 0.7);
+  transform: translateY(-2px);
+}
+
+.lifeatlas-hero-actions a.primary {
+  border-color: #c6ff3d;
+  color: #111827;
+  background: #c6ff3d;
+}
+
+.lifeatlas-scroll-cue {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 26px;
+  color: rgba(226, 232, 240, 0.78);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.lifeatlas-scroll-cue i {
+  animation: lifeatlasCue 1.6s ease-in-out infinite;
+}
+
+@keyframes lifeatlasCue {
+  50% { transform: translateY(4px); }
 }
 
 #lifeatlas-dynamic-bg {
@@ -2182,5 +2297,60 @@
 @media (max-width: 768px) {
   .memory-float-card {
     display: none;
+  }
+
+  #page-header.full_page {
+    height: min(760px, 92vh);
+  }
+
+  #page-header.full_page #site-info {
+    top: 48%;
+    left: 50%;
+    width: calc(100% - 32px);
+    transform: translate(-50%, -50%);
+  }
+
+  #page-header.full_page #site-title {
+    font-size: 42px;
+  }
+
+  .lifeatlas-hero-kicker {
+    font-size: 10px;
+    letter-spacing: 0.1em;
+  }
+
+  .lifeatlas-hero-summary {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  .lifeatlas-hero-actions {
+    gap: 8px;
+    margin-top: 20px;
+  }
+
+  .lifeatlas-hero-actions a {
+    min-height: 40px;
+    padding: 0 14px;
+    font-size: 13px;
+  }
+
+  .lifeatlas-scroll-cue {
+    margin-top: 20px;
+  }
+
+  #recent-posts .recent-post-item .recent-post-info {
+    padding: 24px !important;
+  }
+
+  #recent-posts .recent-post-item .article-title {
+    font-size: 21px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .memory-float-card,
+  .lifeatlas-scroll-cue i {
+    animation: none !important;
   }
 }

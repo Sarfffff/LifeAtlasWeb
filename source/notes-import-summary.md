@@ -1,4 +1,4 @@
-﻿---
+---
 title: 笔记库
 date: 2026-06-27 03:30:00
 type: notes
@@ -8,7 +8,7 @@ type: notes
   <section class="media-hero">
     <p class="media-kicker">Notes Library</p>
     <h2>我的笔记库</h2>
-    <p>已导入 117 篇学习笔记，按方向整理为分类卡片。点击任意卡片即可进入完整笔记内容。</p>
+    <p>已导入 118 篇学习笔记，按方向整理为分类卡片。点击任意卡片即可进入完整笔记内容。</p>
   </section>
   <section class="learning-paths">
     <article>
@@ -184,6 +184,12 @@ type: notes
       <a class="note-card" href="/2026/06/27/imported-notes/%E9%9D%A2%E8%AF%95%E9%A2%98%E6%A8%A1%E6%8B%9F-%E8%85%BE%E5%A8%B1/"><strong>腾娱</strong><span>面试题模拟</span></a>
       <a class="note-card" href="/2026/06/27/imported-notes/%E9%9D%A2%E8%AF%95%E9%A2%98%E6%A8%A1%E6%8B%9F-%E5%BE%AE%E6%B4%BE%E5%86%AC%E4%BB%A4%E8%90%A5%E7%AC%94%E8%AF%95%E9%A2%98/"><strong>微派冬令营笔试题</strong><span>面试题模拟</span></a>
       <a class="note-card" href="/2026/06/27/imported-notes/%E9%9D%A2%E8%AF%95%E9%A2%98%E6%A8%A1%E6%8B%9F-%E6%B8%B8%E6%88%8F%E7%B2%BE%E9%85%BFGameAle%E7%AC%94%E8%AF%95%E9%A2%98/"><strong>游戏精酿GameAle笔试题</strong><span>面试题模拟</span></a>
+    </div>
+  </section>
+  <section class="notes-category">
+<h2>游戏拆解</h2>
+    <div class="notes-grid">
+      <a class="note-card" href="/2026/08/18/Valorent-System-Analysis/"><strong>《无畏契约》系统拆解</strong><span>游戏拆解</span></a>
     </div>
   </section>
   <section class="notes-category">

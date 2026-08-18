@@ -23,6 +23,24 @@
       }
     }
 
+    var isHome = window.location.pathname === "/" || window.location.pathname === "/index.html";
+    var siteInfo = header.querySelector("#site-info");
+    if (isHome && siteInfo && !siteInfo.querySelector(".lifeatlas-hero-intro")) {
+      var intro = document.createElement("div");
+      intro.className = "lifeatlas-hero-intro";
+      intro.innerHTML = [
+        '<p class="lifeatlas-hero-kicker">GAME CLIENT DEV · KNOWLEDGE ATLAS</p>',
+        '<p class="lifeatlas-hero-summary">整理 Unity 客户端开发、项目复盘与面试笔记，把零散经验沉淀成可检索的成长地图。</p>',
+        '<div class="lifeatlas-hero-actions">',
+        '<a class="primary" href="/notes-import-summary.html">浏览技术笔记</a>',
+        '<a href="/projects/">查看项目作品</a>',
+        '<a href="/learning-roadmap/">学习路线</a>',
+        '</div>',
+        '<a class="lifeatlas-scroll-cue" href="#content-inner" aria-label="继续浏览最新内容">向下浏览 <i class="fas fa-arrow-down" aria-hidden="true"></i></a>'
+      ].join("");
+      siteInfo.appendChild(intro);
+    }
+
     var ctx = canvas.getContext("2d");
     var dpr = Math.min(window.devicePixelRatio || 1, 2);
     var width = 0;

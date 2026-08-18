@@ -289,7 +289,7 @@ aside:
   hide: false
   # Show the button to hide the aside in bottom right button
   button: true
-  mobile: true
+  mobile: false
   # Position: left / right
   position: right
   display:
@@ -947,9 +947,9 @@ abcjs:
 # Mermaid
 # https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: false
+  enable: true
   # Write Mermaid diagrams using code blocks
-  code_write: false
+  code_write: true
   # built-in themes: default / forest / dark / neutral
   theme:
     light: default
@@ -1072,9 +1072,9 @@ css_prefix: true
 # Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
 inject:
   head:
-    - <link rel="stylesheet" href="/css/dynamic-bg.css?v=20260706c">
+    - <link rel="stylesheet" href="/css/dynamic-bg.css?v=20260728b">
   bottom:
-    - <script src="/js/dynamic-bg.js?v=20260706c"></script>
+    - <script src="/js/dynamic-bg.js?v=20260728a"></script>
     - <script src="/js/media-guard.js?v=20260706c"></script>
     - <script src="/js/search-timeline.js?v=20260706c"></script>
     - <script src="/js/bangumi-loader.js?v=20260628c"></script>
@@ -1152,6 +1152,3 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
-
-
-
