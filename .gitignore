@@ -11,6 +11,11 @@ deploy/*.tar.gz
 deploy/*.tgz
 tmp/
 
+# SSH keys and deployment credentials
+deploy/id_*
+deploy/temp-deploy-*
+deploy/*.ppk
+
 # Local Codex metadata
 .agents/
 .codex/
@@ -21,3 +26,4 @@ tmp/
 Thumbs.db
 desktop.ini
 
+lifeatlas-site-20260824.zip  
