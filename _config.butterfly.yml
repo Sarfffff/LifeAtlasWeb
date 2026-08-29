@@ -23,6 +23,7 @@ menu:
   笔记: /notes-import-summary.html || fas fa-folder-tree
   时间轴: /timeline/ || fas fa-timeline
   项目: /projects/ || fas fa-gamepad
+  研发手记: /dev-notes/ || fas fa-book-bookmark
   更多 || fas fa-ellipsis:
     搜索: /search/ || fas fa-magnifying-glass
     学习路线: /learning-roadmap/ || fas fa-route

@@ -20,6 +20,9 @@ deploy/*.ppk
 .agents/
 .codex/
 
+# External content repositories (managed by sync scripts)
+.external/
+
 # Logs and operating-system files
 *.log
 .DS_Store

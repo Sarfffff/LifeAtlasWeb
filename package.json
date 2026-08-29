@@ -7,7 +7,9 @@
     "build": "hexo generate",
     "server": "hexo server",
     "dev": "hexo server",
-    "package": "node scripts/package-site.js"
+    "package": "node scripts/package-site.js",
+    "sync:dev-notes": "node scripts/sync-dev-notes.js",
+    "update:dev-notes": "pnpm run sync:dev-notes && pnpm run clean && pnpm run build && pnpm run package"
   },
   "hexo": {
     "version": "7.3.0"
