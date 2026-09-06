@@ -1078,6 +1078,7 @@ inject:
     - <script src="/js/dynamic-bg.js?v=20260728a"></script>
     - <script src="/js/media-guard.js?v=20260706c"></script>
     - <script src="/js/search-timeline.js?v=20260706c"></script>
+    - <script src="/js/article-reading-layout.js?v=20260906a"></script>
     - <script src="/js/bangumi-loader.js?v=20260628c"></script>
     - <script src="/js/music-library.js?v=20260628a"></script>
 

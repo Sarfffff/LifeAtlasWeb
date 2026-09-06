@@ -23,6 +23,9 @@ deploy/*.ppk
 # External content repositories (managed by sync scripts)
 .external/
 
+# Local layout previews and browser test output
+/preview/
+
 # Logs and operating-system files
 *.log
 .DS_Store
