@@ -2,7 +2,7 @@
 title: "个人理解拍脸系统（M_V_C）"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-%E4%B8%AA%E4%BA%BA%E7%90%86%E8%A7%A3%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F%EF%BC%88M_V_C%EF%BC%89/
+permalink: /dev-notes/拍脸系统-个人理解拍脸系统（M_V_C）/
 categories:
   - 研发手记
   - "拍脸系统"

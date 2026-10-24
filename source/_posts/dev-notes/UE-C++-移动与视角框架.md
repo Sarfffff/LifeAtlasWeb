@@ -2,7 +2,7 @@
 title: "移动与视角框架"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/UE-C++-%E7%A7%BB%E5%8A%A8%E4%B8%8E%E8%A7%86%E8%A7%92%E6%A1%86%E6%9E%B6/
+permalink: /dev-notes/UE-C++-移动与视角框架/
 categories:
   - 研发手记
   - "UE-C++"

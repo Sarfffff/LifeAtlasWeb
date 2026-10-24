@@ -2,7 +2,7 @@
 title: "服务器，配置表，客户端之间的通信逻辑"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/Model-%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E9%85%8D%E7%BD%AE%E8%A1%A8%EF%BC%8C%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E9%80%BB%E8%BE%91/
+permalink: /dev-notes/Model-服务器，配置表，客户端之间的通信逻辑/
 categories:
   - 研发手记
   - "Model"

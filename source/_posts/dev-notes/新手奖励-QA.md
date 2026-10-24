@@ -2,7 +2,7 @@
 title: "QA"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/%E6%96%B0%E6%89%8B%E5%A5%96%E5%8A%B1-QA/
+permalink: /dev-notes/新手奖励-QA/
 categories:
   - 研发手记
   - "新手奖励"

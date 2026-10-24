@@ -2,7 +2,7 @@
 title: "分支相关知识以及提交分支流程"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/Ugit-%E5%88%86%E6%94%AF%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E4%BB%A5%E5%8F%8A%E6%8F%90%E4%BA%A4%E5%88%86%E6%94%AF%E6%B5%81%E7%A8%8B/
+permalink: /dev-notes/Ugit-分支相关知识以及提交分支流程/
 categories:
   - 研发手记
   - "Ugit"

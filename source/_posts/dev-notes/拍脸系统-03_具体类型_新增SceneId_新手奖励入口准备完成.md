@@ -2,7 +2,7 @@
 title: "03_具体类型_新增SceneId_新手奖励入口准备完成"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-03_%E5%85%B7%E4%BD%93%E7%B1%BB%E5%9E%8B_%E6%96%B0%E5%A2%9ESceneId_%E6%96%B0%E6%89%8B%E5%A5%96%E5%8A%B1%E5%85%A5%E5%8F%A3%E5%87%86%E5%A4%87%E5%AE%8C%E6%88%90/
+permalink: /dev-notes/拍脸系统-03_具体类型_新增SceneId_新手奖励入口准备完成/
 categories:
   - 研发手记
   - "拍脸系统"

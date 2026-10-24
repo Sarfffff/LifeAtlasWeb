@@ -1985,11 +1985,13 @@
     grid-column: 1;
     grid-row: 1;
     min-width: 0;
+    position: sticky;
+    top: 92px;
+    align-self: start;
   }
 
   #body-wrap.post .article-outline-panel .article-outline-sticky {
-    position: sticky;
-    top: 92px;
+    position: static;
   }
 
   #body-wrap.post .article-outline-panel #card-toc {
@@ -2026,7 +2028,7 @@
   #body-wrap.post .article-outline-panel #card-toc .toc-content {
     overflow-y: auto;
     width: 100%;
-    max-height: calc(100vh - 184px);
+    max-height: calc(100vh - 190px);
     margin: 12px 0 0;
     padding: 0 5px 0 0;
     scrollbar-width: thin;
@@ -2096,9 +2098,49 @@
 }
 
 @media (max-width: 768px) {
+  #body-wrap.post #content-inner {
+    width: calc(100% - 20px);
+    padding-top: 16px;
+  }
+
+  #body-wrap.post #post {
+    padding: 28px 18px;
+  }
+
   #body-wrap.post #article-container {
     font-size: 17px;
     line-height: 1.8;
+  }
+
+  #body-wrap.post #article-container figure.highlight,
+  #body-wrap.post #article-container pre {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  #rightside:has(#mobile-toc-button) {
+    right: 10px;
+    bottom: 24px;
+    opacity: 1;
+    transform: none;
+  }
+
+  #rightside #mobile-toc-button {
+    width: 44px;
+    height: 44px;
+    line-height: 44px;
+  }
+
+  #body-wrap.post #aside-content #card-toc {
+    right: 12px;
+    bottom: 76px;
+    max-width: calc(100vw - 24px);
+    max-height: calc(100dvh - 110px);
+    width: min(340px, calc(100vw - 24px));
+  }
+
+  #body-wrap.post #aside-content #card-toc .toc-content {
+    max-height: calc(100dvh - 190px);
   }
 }
 

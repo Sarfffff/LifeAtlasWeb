@@ -2,7 +2,7 @@
 title: "首充流程"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/Model-%E9%A6%96%E5%85%85%E6%B5%81%E7%A8%8B/
+permalink: /dev-notes/Model-首充流程/
 categories:
   - 研发手记
   - "Model"

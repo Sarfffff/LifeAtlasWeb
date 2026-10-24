@@ -2,7 +2,7 @@
 title: "首充活动分支管理说明"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/Ugit-%E9%A6%96%E5%85%85%E6%B4%BB%E5%8A%A8%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E8%AF%B4%E6%98%8E/
+permalink: /dev-notes/Ugit-首充活动分支管理说明/
 categories:
   - 研发手记
   - "Ugit"

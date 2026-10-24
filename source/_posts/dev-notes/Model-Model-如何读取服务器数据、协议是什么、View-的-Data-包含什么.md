@@ -2,7 +2,7 @@
 title: "Model 如何读取服务器数据、协议是什么、View 的 Data 包含什么"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/Model-Model-%E5%A6%82%E4%BD%95%E8%AF%BB%E5%8F%96%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E3%80%81%E5%8D%8F%E8%AE%AE%E6%98%AF%E4%BB%80%E4%B9%88%E3%80%81View-%E7%9A%84-Data-%E5%8C%85%E5%90%AB%E4%BB%80%E4%B9%88/
+permalink: /dev-notes/Model-Model-如何读取服务器数据、协议是什么、View-的-Data-包含什么/
 categories:
   - 研发手记
   - "Model"

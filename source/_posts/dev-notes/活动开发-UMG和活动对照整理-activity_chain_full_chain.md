@@ -2,7 +2,7 @@
 title: "activity_chain_full_chain"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-UMG%E5%92%8C%E6%B4%BB%E5%8A%A8%E5%AF%B9%E7%85%A7%E6%95%B4%E7%90%86-activity_chain_full_chain/
+permalink: /dev-notes/活动开发-UMG和活动对照整理-activity_chain_full_chain/
 categories:
   - 研发手记
   - "活动开发"

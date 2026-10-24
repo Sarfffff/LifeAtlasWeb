@@ -50,6 +50,35 @@
     layout.classList.add("reading-three-column");
   };
 
+  const onTocClick = (event) => {
+    const link = event.target.closest("#body-wrap.post #card-toc .toc-link");
+    if (!link) return;
+
+    const rawId = link.getAttribute("href").slice(1);
+    let decodedId = rawId;
+    try {
+      decodedId = decodeURIComponent(rawId);
+    } catch (_) {}
+
+    const article = document.getElementById("article-container");
+    const headings = article && [...article.querySelectorAll("h1,h2,h3,h4,h5,h6")];
+    const label = link.querySelector(".toc-text")?.textContent.trim();
+    const target = document.getElementById(decodedId)
+      || document.getElementById(rawId)
+      || headings?.find(heading => heading.textContent.trim() === label);
+    if (!target) return;
+
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    window.scrollTo({
+      top: Math.max(0, target.getBoundingClientRect().top + window.scrollY - 90),
+      behavior: "smooth"
+    });
+    if (window.innerWidth <= 900) {
+      document.getElementById("card-toc")?.classList.remove("open");
+    }
+  };
+
   let resizeTimer;
   const scheduleMount = () => {
     window.clearTimeout(resizeTimer);
@@ -64,4 +93,5 @@
 
   window.addEventListener("resize", scheduleMount, { passive: true });
   document.addEventListener("pjax:complete", mountToc);
+  document.addEventListener("click", onTocClick, true);
 })();

@@ -1,6 +1,6 @@
 ---
 title: 研发手记
-date: 2026-08-29T15:55:51.360Z
+date: 2026-09-19T08:05:37.440Z
 type: dev-notes
 comments: false
 aside: true
@@ -11,46 +11,78 @@ aside: true
 </style>
 
 <div class="dev-notes-page">
-  <section class="dev-notes-hero"><h2>研发手记</h2><p>来自 LearnByCompany 仓库的客户端开发、工程协作、系统拆解与技术学习记录。内容按原始目录同步，保留代码、截图和文档结构。</p><div class="dev-notes-meta"><span>41 篇文档</span><span>同步提交 9c01bd5</span><a href="https://github.com/Sarfffff/LearnByCompany" target="_blank" rel="noopener">查看 GitHub</a></div></section>
-  <section class="dev-note-group"><h3>综合记录<small>7 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/%E3%80%8A%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E3%80%8B%E6%8B%86%E8%A7%A3/"><strong>《无畏契约》拆解</strong><span>《无畏契约》拆解.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E9%93%BE%E8%B7%AF%E6%A3%80%E7%B4%A2%E9%9C%80%E6%B1%82/"><strong>活动链路检索需求</strong><span>活动链路检索需求.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC_%E6%B4%BB%E5%8A%A8%E6%A8%A1%E6%9D%BF_%E6%8D%A2%E7%9A%AE_%E6%96%B0%E6%89%8B%E7%B3%BB%E7%BB%9F_%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F/"><strong>客户端学习指导_活动模板_换皮_新手系统_拍脸系统</strong><span>客户端学习指导_活动模板_换皮_新手系统_拍脸系统.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%AF%8F%E6%97%A5%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/"><strong>每日工作流程</strong><span>每日工作流程.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%80%9D%E8%80%83/"><strong>思考</strong><span>思考.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%9C%AA%E5%91%BD%E5%90%8D/"><strong>未命名</strong><span>未命名.md</span></a>
-<a class="dev-note-card" href="/dev-notes/AI%E6%96%B9%E6%A1%881/"><strong>AI方案1</strong><span>AI方案1.md</span></a></div></section>
+  <section class="dev-notes-hero"><h2>研发手记</h2><p>来自 LearnByCompany 仓库的客户端开发、工程协作、系统拆解与技术学习记录。内容按原始目录同步，保留代码、截图和文档结构。</p><div class="dev-notes-meta"><span>73 篇文档</span><span>同步提交 0f0fb68</span><a href="https://github.com/Sarfffff/LearnByCompany" target="_blank" rel="noopener">查看 GitHub</a></div></section>
+  <section class="dev-note-group"><h3>综合记录<small>7 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/《无畏契约》拆解/"><strong>《无畏契约》拆解</strong><span>《无畏契约》拆解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动链路检索需求/"><strong>活动链路检索需求</strong><span>活动链路检索需求.md</span></a>
+<a class="dev-note-card" href="/dev-notes/客户端学习指导_活动模板_换皮_新手系统_拍脸系统/"><strong>客户端学习指导_活动模板_换皮_新手系统_拍脸系统</strong><span>客户端学习指导_活动模板_换皮_新手系统_拍脸系统.md</span></a>
+<a class="dev-note-card" href="/dev-notes/每日工作流程/"><strong>每日工作流程</strong><span>每日工作流程.md</span></a>
+<a class="dev-note-card" href="/dev-notes/思考/"><strong>思考</strong><span>思考.md</span></a>
+<a class="dev-note-card" href="/dev-notes/未命名/"><strong>未命名</strong><span>未命名.md</span></a>
+<a class="dev-note-card" href="/dev-notes/AI方案1/"><strong>AI方案1</strong><span>AI方案1.md</span></a></div></section>
 <section class="dev-note-group"><h3>image<small>1 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/image-activity_chain_full_chain/"><strong>activity_chain_full_chain</strong><span>image/activity_chain_full_chain.md</span></a></div></section>
-<section class="dev-note-group"><h3>Model<small>6 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/Model-%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E9%85%8D%E7%BD%AE%E8%A1%A8%EF%BC%8C%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E9%80%BB%E8%BE%91/"><strong>服务器，配置表，客户端之间的通信逻辑</strong><span>Model/服务器，配置表，客户端之间的通信逻辑.md</span></a>
-<a class="dev-note-card" href="/dev-notes/Model-%E9%A6%96%E5%85%85%E6%B5%81%E7%A8%8B/"><strong>首充流程</strong><span>Model/首充流程.md</span></a>
+<section class="dev-note-group"><h3>Model<small>6 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/Model-服务器，配置表，客户端之间的通信逻辑/"><strong>服务器，配置表，客户端之间的通信逻辑</strong><span>Model/服务器，配置表，客户端之间的通信逻辑.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Model-首充流程/"><strong>首充流程</strong><span>Model/首充流程.md</span></a>
 <a class="dev-note-card" href="/dev-notes/Model-ActivityModel/"><strong>ActivityModel</strong><span>Model/ActivityModel.md</span></a>
 <a class="dev-note-card" href="/dev-notes/Model-FirstChargeModel.lua/"><strong>FirstChargeModel.lua</strong><span>Model/FirstChargeModel.lua.md</span></a>
 <a class="dev-note-card" href="/dev-notes/Model-Model/"><strong>Model</strong><span>Model/Model.md</span></a>
-<a class="dev-note-card" href="/dev-notes/Model-Model-%E5%A6%82%E4%BD%95%E8%AF%BB%E5%8F%96%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E3%80%81%E5%8D%8F%E8%AE%AE%E6%98%AF%E4%BB%80%E4%B9%88%E3%80%81View-%E7%9A%84-Data-%E5%8C%85%E5%90%AB%E4%BB%80%E4%B9%88/"><strong>Model 如何读取服务器数据、协议是什么、View 的 Data 包含什么</strong><span>Model/Model 如何读取服务器数据、协议是什么、View 的 Data 包含什么.md</span></a></div></section>
-<section class="dev-note-group"><h3>UE-C++<small>1 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/UE-C++-%E7%A7%BB%E5%8A%A8%E4%B8%8E%E8%A7%86%E8%A7%92%E6%A1%86%E6%9E%B6/"><strong>移动与视角框架</strong><span>UE-C++/移动与视角框架.md</span></a></div></section>
-<section class="dev-note-group"><h3>Ugit<small>3 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/Ugit-%E5%88%86%E6%94%AF%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E4%BB%A5%E5%8F%8A%E6%8F%90%E4%BA%A4%E5%88%86%E6%94%AF%E6%B5%81%E7%A8%8B/"><strong>分支相关知识以及提交分支流程</strong><span>Ugit/分支相关知识以及提交分支流程.md</span></a>
-<a class="dev-note-card" href="/dev-notes/Ugit-%E9%A6%96%E5%85%85%E6%B4%BB%E5%8A%A8%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E8%AF%B4%E6%98%8E/"><strong>首充活动分支管理说明</strong><span>Ugit/首充活动分支管理说明.md</span></a>
-<a class="dev-note-card" href="/dev-notes/Ugit-%E9%80%9A%E7%94%A8%E5%88%86%E6%94%AF%E7%AE%A1%E7%90%86%E8%AF%B4%E6%98%8E/"><strong>通用分支管理说明</strong><span>Ugit/通用分支管理说明.md</span></a></div></section>
-<section class="dev-note-group"><h3>快速上手<small>3 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E5%A4%A7%E7%BA%B2/"><strong>快速上手大纲</strong><span>快速上手/快速上手大纲.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-%E6%96%B0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D/"><strong>新人系统开发视频介绍</strong><span>快速上手/新人系统开发视频介绍.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-UMG%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/"><strong>UMG的工作流程</strong><span>快速上手/UMG的工作流程.md</span></a></div></section>
-<section class="dev-note-group"><h3>拍脸系统<small>5 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-01_%E6%96%B0%E5%A2%9E%E6%8B%8D%E8%84%B8%E6%B4%BB%E5%8A%A8_%E9%80%9A%E7%94%A8%E6%A8%A1%E6%9D%BF/"><strong>01_新增拍脸活动_通用模板</strong><span>拍脸系统/01_新增拍脸活动_通用模板.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-02_%E5%85%B7%E4%BD%93%E7%B1%BB%E5%9E%8B_%E6%89%93%E5%BC%80%E5%B7%B2%E6%9C%89%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A2%E7%9A%84%E6%8B%8D%E8%84%B8/"><strong>02_具体类型_打开已有系统界面的拍脸</strong><span>拍脸系统/02_具体类型_打开已有系统界面的拍脸.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-03_%E5%85%B7%E4%BD%93%E7%B1%BB%E5%9E%8B_%E6%96%B0%E5%A2%9ESceneId_%E6%96%B0%E6%89%8B%E5%A5%96%E5%8A%B1%E5%85%A5%E5%8F%A3%E5%87%86%E5%A4%87%E5%AE%8C%E6%88%90/"><strong>03_具体类型_新增SceneId_新手奖励入口准备完成</strong><span>拍脸系统/03_具体类型_新增SceneId_新手奖励入口准备完成.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-04_%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86_%E6%98%93%E6%87%82%E7%89%88/"><strong>04_拍脸系统运行原理_易懂版</strong><span>拍脸系统/04_拍脸系统运行原理_易懂版.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F-%E4%B8%AA%E4%BA%BA%E7%90%86%E8%A7%A3%E6%8B%8D%E8%84%B8%E7%B3%BB%E7%BB%9F%EF%BC%88M_V_C%EF%BC%89/"><strong>个人理解拍脸系统（M_V_C）</strong><span>拍脸系统/个人理解拍脸系统（M_V_C）.md</span></a></div></section>
-<section class="dev-note-group"><h3>新手奖励<small>1 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/%E6%96%B0%E6%89%8B%E5%A5%96%E5%8A%B1-QA/"><strong>QA</strong><span>新手奖励/QA.md</span></a></div></section>
-<section class="dev-note-group"><h3>活动开发<small>12 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E9%A6%96%E5%85%85%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/"><strong>程序代码</strong><span>活动开发/首充活动开发/程序代码.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%8D%A2%E7%9A%AE%E6%A8%A1%E6%9D%BF-%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%8D%A2%E7%9A%AE%E6%93%8D%E4%BD%9C-%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%8D%A2%E7%9A%AE%E5%AE%9E%E4%BE%8B_1255%E5%88%B01257/"><strong>大富翁换皮实例_1255到1257</strong><span>活动开发/换皮模板/大富翁换皮操作/大富翁换皮实例_1255到1257.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%8D%A2%E7%9A%AE%E6%A8%A1%E6%9D%BF-%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%8D%A2%E7%9A%AE%E6%93%8D%E4%BD%9C-%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%8D%A2%E7%9A%AE%E9%80%9A%E7%94%A8%E6%A8%A1%E6%9D%BF/"><strong>大富翁换皮通用模板</strong><span>活动开发/换皮模板/大富翁换皮操作/大富翁换皮通用模板.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E9%A6%96%E5%85%85%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E8%B0%83%E7%94%A8%E9%93%BE/"><strong>调用链</strong><span>活动开发/首充活动开发/调用链.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E5%A4%A7%E7%BA%B2/"><strong>活动开发大纲</strong><span>活动开发/活动开发大纲.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E5%8F%91%E7%8E%B0%E7%B3%BB%E7%BB%9F-%E5%8F%AC%E9%9B%86%E4%BB%A4%E8%8A%82%E6%97%A5%E7%89%88-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91/"><strong>客户端功能开发</strong><span>活动开发/发现系统-召集令节日版/客户端功能开发.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E9%A6%96%E5%85%85%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%9C%AA%E5%91%BD%E5%90%8D/"><strong>未命名</strong><span>活动开发/首充活动开发/未命名.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%8D%A2%E7%9A%AE%E6%A8%A1%E6%9D%BF-%E7%BA%BF%E6%80%A7%E5%85%91%E6%8D%A2%E6%B4%BB%E5%8A%A8%E6%8D%A2%E7%9A%AE%E9%80%BB%E8%BE%91/"><strong>线性兑换活动换皮逻辑</strong><span>活动开发/换皮模板/线性兑换活动换皮逻辑.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%8D%A2%E7%9A%AE%E6%A8%A1%E6%9D%BF-%E4%B8%80%E8%88%AC%E6%B4%BB%E5%8A%A8/"><strong>一般活动</strong><span>活动开发/换皮模板/一般活动.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-UMG%E5%92%8C%E6%B4%BB%E5%8A%A8%E5%AF%B9%E7%85%A7%E6%95%B4%E7%90%86-activity_chain_full_chain/"><strong>activity_chain_full_chain</strong><span>活动开发/UMG和活动对照整理/activity_chain_full_chain.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E6%B4%BB%E5%8A%A8%E6%8A%BD%E5%A5%96%E6%A8%A1%E6%9D%BF-layout%E8%A7%84%E5%88%99/"><strong>layout规则</strong><span>活动开发/活动抽奖模板/layout规则.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-%E9%A6%96%E5%85%85%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%8F%91-Layout%E8%A7%84%E5%88%99/"><strong>Layout规则</strong><span>活动开发/首充活动开发/Layout规则.md</span></a></div></section>
-<section class="dev-note-group"><h3>策划<small>2 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/%E7%AD%96%E5%88%92-%E6%8B%86%E8%A7%A3%E6%A1%88-%E3%80%8A%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E3%80%8B%E6%8B%86%E8%A7%A3/"><strong>《无畏契约》拆解</strong><span>策划/拆解案/《无畏契约》拆解.md</span></a>
-<a class="dev-note-card" href="/dev-notes/%E7%AD%96%E5%88%92-%E7%B3%BB%E7%BB%9F%E7%AD%96%E5%88%92/"><strong>系统策划</strong><span>策划/系统策划.md</span></a></div></section>
+<a class="dev-note-card" href="/dev-notes/Model-Model-如何读取服务器数据、协议是什么、View-的-Data-包含什么/"><strong>Model 如何读取服务器数据、协议是什么、View 的 Data 包含什么</strong><span>Model/Model 如何读取服务器数据、协议是什么、View 的 Data 包含什么.md</span></a></div></section>
+<section class="dev-note-group"><h3>Notes<small>8 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-00-课程索引/"><strong>00-课程索引</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/00-课程索引.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-01-项目基础/"><strong>01-项目基础</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/01-项目基础.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-02-英雄角色与基础框架/"><strong>02-英雄角色与基础框架</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/02-英雄角色与基础框架.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-03-近战连招系统/"><strong>03-近战连招系统</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/03-近战连招系统.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-04-英雄战斗与反馈UI/"><strong>04-英雄战斗与反馈UI</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/04-英雄战斗与反馈UI.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-05-敌人AI/"><strong>05-敌人AI</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/05-敌人AI.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-06-英雄战斗能力/"><strong>06-英雄战斗能力</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/06-英雄战斗能力.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Notes-UE5-Advanced-Action-RPG-Part1-07-远程敌人/"><strong>07-远程敌人</strong><span>Notes/UE5-Advanced-Action-RPG-Part1/07-远程敌人.md</span></a></div></section>
+<section class="dev-note-group"><h3>UE-C++<small>14 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-打磨优化/"><strong>打磨优化</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/打磨优化.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-调试与UI/"><strong>调试与UI</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/调试与UI.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-基础篇/"><strong>基础篇</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/基础篇.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-蓝图篇/"><strong>蓝图篇</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/蓝图篇.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-网络同步/"><strong>网络同步</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/网络同步.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-移动与视角框架/"><strong>移动与视角框架</strong><span>UE-C++/移动与视角框架.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-游戏系统/"><strong>游戏系统</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/游戏系统.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-使用C++在虚幻引擎中制作游戏Tom-Looman-AI篇/"><strong>AI篇</strong><span>UE-C++/使用C++在虚幻引擎中制作游戏Tom Looman/AI篇.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-C++/"><strong>C++</strong><span>UE-C++/C++.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-C++内存管理-C++内存管理/"><strong>C++内存管理</strong><span>UE-C++/C++内存管理/C++内存管理.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-C++内存管理-malloc_free/"><strong>malloc_free</strong><span>UE-C++/C++内存管理/malloc_free.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-C++内存管理-oki_allocator/"><strong>oki_allocator</strong><span>UE-C++/C++内存管理/oki_allocator.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-C++内存管理-other_allocator/"><strong>other_allocator</strong><span>UE-C++/C++内存管理/other_allocator.md</span></a>
+<a class="dev-note-card" href="/dev-notes/UE-C++-C++内存管理-std_allocator/"><strong>std_allocator</strong><span>UE-C++/C++内存管理/std_allocator.md</span></a></div></section>
+<section class="dev-note-group"><h3>Ugit<small>3 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/Ugit-分支相关知识以及提交分支流程/"><strong>分支相关知识以及提交分支流程</strong><span>Ugit/分支相关知识以及提交分支流程.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Ugit-首充活动分支管理说明/"><strong>首充活动分支管理说明</strong><span>Ugit/首充活动分支管理说明.md</span></a>
+<a class="dev-note-card" href="/dev-notes/Ugit-通用分支管理说明/"><strong>通用分支管理说明</strong><span>Ugit/通用分支管理说明.md</span></a></div></section>
+<section class="dev-note-group"><h3>快速上手<small>3 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/快速上手-快速上手大纲/"><strong>快速上手大纲</strong><span>快速上手/快速上手大纲.md</span></a>
+<a class="dev-note-card" href="/dev-notes/快速上手-新人系统开发视频介绍/"><strong>新人系统开发视频介绍</strong><span>快速上手/新人系统开发视频介绍.md</span></a>
+<a class="dev-note-card" href="/dev-notes/快速上手-UMG的工作流程/"><strong>UMG的工作流程</strong><span>快速上手/UMG的工作流程.md</span></a></div></section>
+<section class="dev-note-group"><h3>拍脸系统<small>5 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/拍脸系统-01_新增拍脸活动_通用模板/"><strong>01_新增拍脸活动_通用模板</strong><span>拍脸系统/01_新增拍脸活动_通用模板.md</span></a>
+<a class="dev-note-card" href="/dev-notes/拍脸系统-02_具体类型_打开已有系统界面的拍脸/"><strong>02_具体类型_打开已有系统界面的拍脸</strong><span>拍脸系统/02_具体类型_打开已有系统界面的拍脸.md</span></a>
+<a class="dev-note-card" href="/dev-notes/拍脸系统-03_具体类型_新增SceneId_新手奖励入口准备完成/"><strong>03_具体类型_新增SceneId_新手奖励入口准备完成</strong><span>拍脸系统/03_具体类型_新增SceneId_新手奖励入口准备完成.md</span></a>
+<a class="dev-note-card" href="/dev-notes/拍脸系统-04_拍脸系统运行原理_易懂版/"><strong>04_拍脸系统运行原理_易懂版</strong><span>拍脸系统/04_拍脸系统运行原理_易懂版.md</span></a>
+<a class="dev-note-card" href="/dev-notes/拍脸系统-个人理解拍脸系统（M_V_C）/"><strong>个人理解拍脸系统（M_V_C）</strong><span>拍脸系统/个人理解拍脸系统（M_V_C）.md</span></a></div></section>
+<section class="dev-note-group"><h3>新手奖励<small>1 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/新手奖励-QA/"><strong>QA</strong><span>新手奖励/QA.md</span></a></div></section>
+<section class="dev-note-group"><h3>活动开发<small>12 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/活动开发-首充活动开发-程序代码/"><strong>程序代码</strong><span>活动开发/首充活动开发/程序代码.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-换皮模板-大富翁换皮操作-大富翁换皮实例_1255到1257/"><strong>大富翁换皮实例_1255到1257</strong><span>活动开发/换皮模板/大富翁换皮操作/大富翁换皮实例_1255到1257.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-换皮模板-大富翁换皮操作-大富翁换皮通用模板/"><strong>大富翁换皮通用模板</strong><span>活动开发/换皮模板/大富翁换皮操作/大富翁换皮通用模板.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-首充活动开发-调用链/"><strong>调用链</strong><span>活动开发/首充活动开发/调用链.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-活动开发大纲/"><strong>活动开发大纲</strong><span>活动开发/活动开发大纲.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-发现系统-召集令节日版-客户端功能开发/"><strong>客户端功能开发</strong><span>活动开发/发现系统-召集令节日版/客户端功能开发.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-首充活动开发-未命名/"><strong>未命名</strong><span>活动开发/首充活动开发/未命名.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-换皮模板-线性兑换活动换皮逻辑/"><strong>线性兑换活动换皮逻辑</strong><span>活动开发/换皮模板/线性兑换活动换皮逻辑.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-换皮模板-一般活动/"><strong>一般活动</strong><span>活动开发/换皮模板/一般活动.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-UMG和活动对照整理-activity_chain_full_chain/"><strong>activity_chain_full_chain</strong><span>活动开发/UMG和活动对照整理/activity_chain_full_chain.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-活动抽奖模板-layout规则/"><strong>layout规则</strong><span>活动开发/活动抽奖模板/layout规则.md</span></a>
+<a class="dev-note-card" href="/dev-notes/活动开发-首充活动开发-Layout规则/"><strong>Layout规则</strong><span>活动开发/首充活动开发/Layout规则.md</span></a></div></section>
+<section class="dev-note-group"><h3>火影海外<small>11 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-框架阅读索引/"><strong>KiHan 框架阅读索引</strong><span>火影海外/Framework主线/KiHan 框架阅读索引.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-热更双引擎详解/"><strong>KiHan 热更双引擎详解</strong><span>火影海外/Framework主线/KiHan 热更双引擎详解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-网络框架详解/"><strong>KiHan 网络框架详解</strong><span>火影海外/Framework主线/KiHan 网络框架详解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-KiHan-项目认知清单/"><strong>KiHan 项目认知清单</strong><span>火影海外/KiHan 项目认知清单.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-KiHan-新人知识库阅读路线/"><strong>KiHan 新人知识库阅读路线</strong><span>火影海外/KiHan 新人知识库阅读路线.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-资源加载框架详解/"><strong>KiHan 资源加载框架详解</strong><span>火影海外/Framework主线/KiHan 资源加载框架详解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-ActFramework详解/"><strong>KiHan ActFramework详解</strong><span>火影海外/Framework主线/KiHan ActFramework详解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-Manager台账速查/"><strong>KiHan Manager台账速查</strong><span>火影海外/Framework主线/KiHan Manager台账速查.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-Plugin框架详解/"><strong>KiHan Plugin框架详解</strong><span>火影海外/Framework主线/KiHan Plugin框架详解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan-UI框架详解/"><strong>KiHan UI框架详解</strong><span>火影海外/Framework主线/KiHan UI框架详解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/火影海外-Framework主线-KiHan状态机架构详解/"><strong>KiHan状态机架构详解</strong><span>火影海外/Framework主线/KiHan状态机架构详解.md</span></a></div></section>
+<section class="dev-note-group"><h3>策划<small>2 篇</small></h3><div class="dev-note-grid"><a class="dev-note-card" href="/dev-notes/策划-拆解案-《无畏契约》拆解/"><strong>《无畏契约》拆解</strong><span>策划/拆解案/《无畏契约》拆解.md</span></a>
+<a class="dev-note-card" href="/dev-notes/策划-系统策划/"><strong>系统策划</strong><span>策划/系统策划.md</span></a></div></section>
 </div>

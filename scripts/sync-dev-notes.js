@@ -99,18 +99,32 @@ function fileDate (relativePath) {
 }
 
 function copyAssets () {
-  const sourceAssets = path.join(repoDir, 'image')
   fs.rmSync(assetsDir, { recursive: true, force: true })
-  if (!fs.existsSync(sourceAssets)) return
+  for (const file of walkFiles(repoDir)) {
+    const relativePath = toPosix(path.relative(repoDir, file))
+    if (relativePath.startsWith('.git/') || relativePath.toLowerCase().endsWith('.md')) continue
+    if (!/\.(?:avif|gif|jpe?g|png|svg|webp)$/i.test(file)) continue
 
-  for (const file of walkFiles(sourceAssets)) {
-    if (file.toLowerCase().endsWith('.md')) continue
-
-    const relativePath = path.relative(sourceAssets, file)
-    const destination = path.join(assetsDir, relativePath)
+    const assetPath = relativePath.startsWith('image/') ? relativePath.slice(6) : relativePath
+    const destination = path.join(assetsDir, ...assetPath.split('/'))
     fs.mkdirSync(path.dirname(destination), { recursive: true })
     fs.copyFileSync(file, destination)
   }
+}
+
+function rewriteLocalImages (content, sourceRelativePath) {
+  return content.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, rawTarget) => {
+    const target = rawTarget.trim().replace(/^<|>$/g, '')
+    if (/^(?:https?:|data:|\/)/i.test(target)) return match
+
+    const sourceDir = path.posix.dirname(sourceRelativePath)
+    const resolved = path.posix.normalize(path.posix.join(sourceDir, decodeURIComponent(target)))
+    const file = path.join(repoDir, ...resolved.split('/'))
+    if (!fs.existsSync(file) || !fs.statSync(file).isFile()) return match
+
+    const assetPath = resolved.startsWith('image/') ? resolved.slice(6) : resolved
+    return `![${alt}](${encodeAssetUrl(assetPath)})`
+  })
 }
 
 function buildHub (groups, commit) {
@@ -157,7 +171,7 @@ function sync () {
     const relativePath = toPosix(path.relative(repoDir, file))
     const title = path.basename(file, '.md')
     const slug = slugifyPath(relativePath)
-    return { file, relativePath, title, slug, permalink: `/dev-notes/${encodeURI(slug)}/` }
+    return { file, relativePath, title, slug, permalink: `/dev-notes/${slug}/` }
   })
   const permalinkByFile = new Map(records.map(record => [record.relativePath, record.permalink]))
   const groups = new Map()
@@ -170,6 +184,7 @@ function sync () {
     body = stripFrontMatter(body)
     body = rewriteObsidianImages(body)
     body = rewriteMarkdownImages(body)
+    body = rewriteLocalImages(body, record.relativePath)
     body = resolveInternalLinks(body, record.relativePath, permalinkByFile)
 
     const sourceUrl = `${repoUrl.replace('.git', '')}/blob/main/${record.relativePath.split('/').map(encodeURIComponent).join('/')}`

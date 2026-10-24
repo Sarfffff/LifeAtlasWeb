@@ -2,7 +2,7 @@
 title: "UMG的工作流程"
 date: 2026-08-27T20:06:01+08:00
 updated: 2026-08-27T20:06:01+08:00
-permalink: /dev-notes/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-UMG%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/
+permalink: /dev-notes/快速上手-UMG的工作流程/
 categories:
   - 研发手记
   - "快速上手"
